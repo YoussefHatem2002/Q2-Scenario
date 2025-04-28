@@ -4,7 +4,7 @@
 
 # ✅ Step 1: Verify DNS Resolution
 
-![Description of the image](Q2-Scenario/WhatsApp Image 2025-04-28 at 21.43.44_e8cef2d7.jpg)
+
 
 
 
