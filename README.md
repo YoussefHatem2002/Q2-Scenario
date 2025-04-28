@@ -4,12 +4,12 @@
 
 # ✅ Step 1: Verify DNS Resolution
 
-![WhatsApp Image](https://github.com/YoussefHatem2002/Q2-Scenario/blob/main/WhatsApp%20Image%202025-04-28%20at%2021.43.44_e8cef2d7.jpg?raw=true)
+![WhatsApp Image](https://github.com/YoussefHatem2002/Q2-Scenario/blob/main/WhatsApp%20Image%202025-04-28%20at%2021.43.44_e8cef2d7.jpg?raw=true) 
 
+                                 
+![WhatsApp Image](https://github.com/YoussefHatem2002/Q2-Scenario/blob/main/WhatsApp%20Image%202025-04-28%20at%2021.44.00_d91cb5a1.jpg?raw=true)
 
-
-
-
+# ✅ Step 2: Diagnose Service Reachability
 
 
 
