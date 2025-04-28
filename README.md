@@ -4,6 +4,7 @@
 
 # ✅ Step 1: Verify DNS Resolution
 
+![WhatsApp Image](https://github.com/YoussefHatem2002/Q2-Scenario/blob/main/WhatsApp%20Image%202025-04-28%20at%2021.43.44_e8cef2d7.jpg?raw=true)
 
 
 
