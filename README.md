@@ -29,7 +29,7 @@
 | Service | Web server binding to wrong IP/interface | Check listening services:<br>```ss -tuln```<br>or<br>```netstat -tuln```<br>Look if it's only listening on 127.0.0.1 (localhost). | Configure web server to listen on correct interface:<br>Edit web server config:<br>```sudo nano /etc/nginx/sites-available/default```<br>or<br>```sudo nano /etc/apache2/ports.conf```<br>Change `listen 127.0.0.1:80` → `listen 0.0.0.0:80`.<br>Then restart server. |
 
 
-
+# 🏆 Bonus
 
 
 
