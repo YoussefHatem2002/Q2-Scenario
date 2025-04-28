@@ -1,6 +1,9 @@
 # Q2-Scenario
 
-✅ Step 1: Verify DNS Resolution
+
+
+# ✅ Step 1: Verify DNS Resolution
+
 
 
 
