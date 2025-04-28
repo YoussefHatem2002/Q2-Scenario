@@ -35,3 +35,4 @@
 ![WhatsApp Image](https://github.com/YoussefHatem2002/Q2-Scenario/blob/main/WhatsApp%20Image%202025-04-28%20at%2023.00.31_45806ba2.jpg?raw=true)
 # Show how to persist DNS server settings using systemd-resolved or NetworkManager.
 
+https://github.com/YoussefHatem2002/Q2-Scenario/blob/main/WhatsApp%20Image%202025-04-28%20at%2023.03.16_8aa265bb.jpg?raw=true
