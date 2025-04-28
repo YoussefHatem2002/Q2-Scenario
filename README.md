@@ -11,6 +11,10 @@
 
 # ✅ Step 2: Diagnose Service Reachability
 
+![WhatsApp Image](https://github.com/YoussefHatem2002/Q2-Scenario/blob/main/WhatsApp%20Image%202025-04-28%20at%2022.13.06_30416e3f.jpg?raw=true)
+
+
+# ✅ Step 3 & 4: List All Possible Causes and Apply Fixes
 
 
 | Layer   | Potential Issue  | 1. How to Confirm  | 2. How to Fix (Commands) |
