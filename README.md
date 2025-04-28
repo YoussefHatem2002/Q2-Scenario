@@ -30,6 +30,7 @@
 
 
 # 🏆 Bonus
-
+#  Configure a local /etc/hosts entry to bypass DNS for testing
+![WhatsApp Image](https://github.com/YoussefHatem2002/Q2-Scenario/blob/main/WhatsApp%20Image%202025-04-28%20at%2023.00.46_1157a366.jpg?raw=true)
 
 
